@@ -11,8 +11,7 @@ Orb Jump is a fast-paced, endless runner style game promoting pure skill! Simply
 * 60 fps
 * Reach incredible heights!
 
-### [Orb Jump for Android](https://play.google.com/store/apps/details?id=com.Powershot.OrbJump)
-### [Trailer](https://www.youtube.com/watch?v=eo8673PNSI4)
+### [Orb Jump for Android](https://play.google.com/store/apps/details?id=com.Powershot.OrbJump) | [Trailer](https://www.youtube.com/watch?v=eo8673PNSI4)
 
 ## Screenshots
 ![](PromoImages/OrbJumpPromo5.png)
