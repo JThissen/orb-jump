@@ -1,6 +1,6 @@
 ##### July 5, 2018
 # Orb Jump
-How far can you get?
+*How far can you get?*
 
 Orb Jump is a fast-paced, endless runner style game promoting pure skill! Simply tap the screen and start dodging those pesky obstacles!
 
