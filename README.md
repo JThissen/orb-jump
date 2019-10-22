@@ -1,4 +1,5 @@
 ##### July 5, 2018
+###### This repository features screenshots only.
 # Orb Jump
 *How far can you get?*
 
